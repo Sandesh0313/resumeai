@@ -1,6 +1,19 @@
-# resumeai
-AI Resume Evaluator is a full-stack web app that analyzes PDF resumes using GPT-4. It provides an ATS score, highlights strengths, and suggests improvements. Built with React.js, Node.js, and OpenAI API, it showcases real-world LLM integration and helps users optimize resumes for job roles.
+# 🧠 ResumeAI – AI-Powered Resume Evaluator
 
+ResumeAI is a cutting-edge web application that leverages **GPT-4** to analyze resumes and provide actionable feedback. Designed for job seekers and professionals, it evaluates uploaded PDF resumes against modern **Applicant Tracking Systems (ATS)** and offers:
 
-https://github.com/user-attachments/assets/4d4a7c7d-4015-46e1-9c43-4592557ab088
+- 📊 An ATS compatibility score  
+- ✅ Highlights of resume strengths  
+- 🛠️ Suggestions for improvements tailored to industry standards  
 
+Built with **React.js**, **Node.js**, and the **OpenAI API**, ResumeAI demonstrates practical integration of **Large Language Models (LLMs)** into real-world applications.
+
+---
+
+## 🎥 Project Demo
+
+https://github.com/user-attachments/assets/7733e26f-89e2-486e-af2f-f0fc0732eb19
+
+---
+
+> 🚀 Empower your job search with AI. ResumeAI helps you stand out — before the interview even begins.
